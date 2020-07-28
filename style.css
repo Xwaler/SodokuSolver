@@ -1,0 +1,18 @@
+div.canvas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+    height: 720px;
+}
+
+div.solve-btn {
+    margin-top: 50px;
+}
+
+div.solve-btn button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
